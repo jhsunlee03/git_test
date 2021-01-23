@@ -1,0 +1,1 @@
+This is Johanna's first git project!
